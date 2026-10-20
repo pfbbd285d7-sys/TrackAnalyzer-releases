@@ -2,9 +2,13 @@
 
 Created by Oleg Frolov · PROFFIT
 
+## Версия 1.5.14
+
+Ускорена обработка файлов. Окно обновления сохраняет стабильный масштаб и удобно отображает описание.
+
 ## Установка на Mac
 
-[Скачать компактный установщик Mac](https://github.com/pfbbd285d7-sys/TrackAnalyzer-releases/releases/download/mac-1.5.13-b2026101906/TrackAnalyzer-Mac-Installer.zip)
+[Скачать компактный установщик Mac](https://github.com/pfbbd285d7-sys/TrackAnalyzer-releases/releases/download/mac-1.5.14-b2026102001/TrackAnalyzer-Mac-Installer.zip)
 
 Mac с Apple Silicon, macOS 13 или новее. Распакуйте ZIP и откройте установщик. Для первой установки выберите новую папку. Программа, карта и подготовленный граф будут загружены в неё автоматически. Аккаунт GitHub не нужен.
 
@@ -14,7 +18,7 @@ Mac с Apple Silicon, macOS 13 или новее. Распакуйте ZIP и о
 
 ## Установка на Windows
 
-[Скачать компактный установщик Windows](https://github.com/pfbbd285d7-sys/TrackAnalyzer-releases/releases/download/windows-1.5.13-b2026101907/TrackAnalyzer-Windows-Setup.exe)
+[Скачать компактный установщик Windows](https://github.com/pfbbd285d7-sys/TrackAnalyzer-releases/releases/download/windows-1.5.14-b2026102001/TrackAnalyzer-Windows-Setup.exe)
 
 Windows 10/11 x64; на Windows 11 ARM64 используется штатная совместимость x64. Установщик около 11 МБ, первая загрузка около 1,85 ГБ. Выберите новую папку; программа и общие с Mac карты/граф будут загружены автоматически. Подготовьте не менее 8 ГБ свободного места. Аккаунт GitHub и отдельная установка Python/Java не нужны. Для интерфейса нужен Microsoft Edge WebView2 Runtime.
 
